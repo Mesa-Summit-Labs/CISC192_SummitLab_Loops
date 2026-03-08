@@ -6,7 +6,7 @@ using namespace std;
 
 void username_list(stringstream& cin, stringstream& cout)
 {
-    // Place code for getting the street address
+    // Place code for getting the list of  user name 
     // Pretend this is your main function and you can use cin/cout
     // as you would in main.
 
@@ -16,7 +16,7 @@ void username_list(stringstream& cin, stringstream& cout)
 
 void grocery_total(stringstream& cin, stringstream& cout)
 {
-    // Place code for outputting the total sales of a coffee item
+    // Place code for outputting the total grocery
      // Pretend this is your main function and you can use cin/cout
      // as you would in main.
 
@@ -27,7 +27,7 @@ void grocery_total(stringstream& cin, stringstream& cout)
 
 void average_daily_steps(stringstream& cin, stringstream& cout)
 {
-    // Place code for outputting the total sales of a coffee item
+    // Place code for outputting average daily steps
     // Pretend this is your main function and you can use cin/cout
     // as you would in main.
 
@@ -38,7 +38,7 @@ void average_daily_steps(stringstream& cin, stringstream& cout)
 
 void triangle_pattern(stringstream& cin, stringstream& cout)
 {
-    // Place code for outputting the total sales of a coffee item
+    // Place code for outputting the ttriangle pattern
    // Pretend this is your main function and you can use cin/cout
    // as you would in main.
 
